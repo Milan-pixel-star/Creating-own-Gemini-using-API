@@ -34,7 +34,7 @@ To install the required packages, follow these steps:
 To run the application, use the following command:
 
 ```bash
-python main.py
+streamlit run app.py
 ```
 
 Replace `main.py` with the appropriate script name if it differs. Ensure that you have configured any necessary environment variables or configuration files as required by your specific implementation.
